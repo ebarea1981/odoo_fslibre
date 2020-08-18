@@ -1,5 +1,5 @@
 FROM debian:stretch-slim
-MAINTAINER Eduardo Barea B. <ebarea1981@gmail.com>
+MAINTAINER Odoo S.A. <info@odoo.com>
 
 SHELL ["/bin/bash", "-xo", "pipefail", "-c"]
 
