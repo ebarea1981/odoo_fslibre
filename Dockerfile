@@ -1,4 +1,4 @@
-FROM ebarea1981/odoo_fslibre:latest
+FROM ebarea1981/odoo_fslibre:12.7.0
 MAINTAINER Eduardo Barea B. <ebarea1981@gmail.com>
 
 USER root
